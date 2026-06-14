@@ -1,0 +1,5 @@
+/Users/maryamhabeb/qt-protocol-viewer/build/Qt_6_11_1_for_macOS-Debug/CMakeFiles/qt-protocol-viewer.dir
+/Users/maryamhabeb/qt-protocol-viewer/build/Qt_6_11_1_for_macOS-Debug/CMakeFiles/edit_cache.dir
+/Users/maryamhabeb/qt-protocol-viewer/build/Qt_6_11_1_for_macOS-Debug/CMakeFiles/rebuild_cache.dir
+/Users/maryamhabeb/qt-protocol-viewer/build/Qt_6_11_1_for_macOS-Debug/CMakeFiles/qt-protocol-viewer_autogen_timestamp_deps.dir
+/Users/maryamhabeb/qt-protocol-viewer/build/Qt_6_11_1_for_macOS-Debug/CMakeFiles/qt-protocol-viewer_autogen.dir
